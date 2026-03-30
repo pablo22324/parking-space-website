@@ -9,3 +9,6 @@ images.png
 
 # features documentation:
 phps overview
+
+## Attention:
+project is created in polish language
