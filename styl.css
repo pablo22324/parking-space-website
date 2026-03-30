@@ -1,0 +1,15 @@
+
+.myTab
+{
+   display: flex;
+   justify-content: space-between;
+}
+.nav-link, .nav-item
+{
+    width: 33%;
+}
+iframe, .tab-content, .tab-pane.fade
+{
+    width: 100%;
+    height: 500px;
+}

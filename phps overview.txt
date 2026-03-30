@@ -1,0 +1,32 @@
+1. strona glowna (main page)
+2. wolne miejsca (places to rent)
+3. konto (account)
+3.1 info 
+3.2 wynajem (rent)
+3.3 uslugi (services)
+
+1. it is invitation and short description of page
+2. shows places that are currlently rented (red) and free (green)
+on the bottom is data about every rent (start date and expiration date of a parking place)
+3. sign in or up panel
+3.1 data about client and options to change every information (email address, phone number etc)
+3.2 place to rent a parking place 
+3.3 form to ordering service for particular car place
+
+
+file tasks:
+admin.php - it is admin's dedicated panel to write queries and manage users
+config.php - connecting to database
+dane.php (data) -  input tags and sql queries created to display user data and allows to change contact information
+delete,edit,modify - admin queries to manage users
+info,konto - base for the rest of the add-ons after logging in
+konsultant (supporter) - supporter dedicated panel to manage clients
+kontowe - query for client's data
+logowanie - sigining in feature
+miejsca - parking place map
+rejestracja - sigining up feature
+saldo - shows client diffrence of his payments and costs
+uslugi - sevices ordering
+wynajem - renting of car place feature
+wynajete - shows places that client is already renting
+
